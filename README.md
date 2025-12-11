@@ -1,4 +1,4 @@
-# Splunk AI Log Analyzer
+# SplunkFlow
 
 A Python-based intelligent log processing tool that automatically detects log types, extracts structured fields, sends data to Splunk, and generates custom dashboards based on detected log patterns.
 
